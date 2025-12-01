@@ -467,7 +467,7 @@ const Services = () => {
     <section id="consulting" className="bg-white px-[5%] py-16 md:py-24 flex flex-col lg:flex-row gap-12 lg:gap-20 items-center">
       <div className="flex-1 w-full">
         <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-6 md:mb-8 text-black tracking-tight">
-          HOW I CAN HELP
+          HOW I CAN HELP 
         </h2>
         <ul className="space-y-4">
           {services.map((service, index) => (
